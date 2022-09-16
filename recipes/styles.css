@@ -1,0 +1,40 @@
+img{
+    height: auto;
+    width: 500px;
+    border: solid;
+    border-width: 4px;
+    border-radius: 250px;
+}
+
+img.tiramisu{
+    border-color: rgb(62, 27, 9);
+}
+
+img.bahn-mi{
+    border-color: rgba(20, 76, 20, 0.487);
+}
+
+img.milk-tea{
+    height: auto;
+    width: 400px;
+    border-radius: 200px;
+    border-color: black;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+        text-align: center;
+}
+
+body{
+    background-color: rgba(179, 145, 99, 0.331);
+}
+
+div.ingredients, div.steps{
+    background-color: rgba(192, 118, 32, 0.489);
+    padding: 5px 0px 10px 10px;
+    margin: 0px 175px 25px 175px;
+}
